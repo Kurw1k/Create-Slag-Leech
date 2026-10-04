@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_slag_leech:block/liquid_slag"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "create:block/encased_shaft/block",
+  "textures": {
+    "casing": "create_slag_leech:block/slag_casing",
+    "opening": "create_slag_leech:block/slag_casing_open"
+  }
+}

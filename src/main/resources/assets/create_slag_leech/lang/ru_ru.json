@@ -1,0 +1,9 @@
+{
+  "itemGroup.create_slag_leech.slag_tab": "Create: Slag Leech",
+  "block.create_slag_leech.slag_block": "Блок шлака",
+  "block.create_slag_leech.slag_casing": "Корпус из шлака",
+  "item.create_slag_leech.slag_ingot": "Слиток шлака",
+  "item.create_slag_leech.liquid_slag_bucket": "Ведро жидкого шлака",
+  "block.create_slag_leech.liquid_slag": "Жидкий шлак",
+  "block.create_slag_leech.slag_encased_shaft": "Вал в шлаковом корпусе"
+}

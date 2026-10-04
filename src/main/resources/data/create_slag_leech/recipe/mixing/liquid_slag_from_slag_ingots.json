@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_slag_leech:slag_ingot"
+    },
+    {
+      "item": "create_slag_leech:slag_ingot"
+    },
+    {
+      "item": "create_slag_leech:slag_ingot"
+    },
+    {
+      "item": "create_slag_leech:slag_ingot"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 1000,
+      "tag": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "create_slag_leech:liquid_slag"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": { "model": "create_slag_leech:block/slag_encased_shaft", "x": 90, "y": 90 },
+    "axis=y": { "model": "create_slag_leech:block/slag_encased_shaft" },
+    "axis=z": { "model": "create_slag_leech:block/slag_encased_shaft", "x": 90 }
+  }
+}

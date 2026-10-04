@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "particle": "create_slag_leech:block/liquid_slag_still",
+    "still": "create_slag_leech:block/liquid_slag_still",
+    "flow": "create_slag_leech:block/liquid_slag_flow"
+  }
+}

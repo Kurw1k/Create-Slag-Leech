@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create_slag_leech:slag_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:slime_block"
+    }
+  ]
+}
