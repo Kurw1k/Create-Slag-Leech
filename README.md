@@ -21,4 +21,4 @@
 ## 🚀 Installation & Building
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Kurw1k/create-slag-leech.git](https://github.com/Kurw1k/create-slag-leech.git)
+   git clone https://github.com/Kurw1k/create-slag-leech.git
